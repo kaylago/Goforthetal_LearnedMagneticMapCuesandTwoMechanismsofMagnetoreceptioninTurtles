@@ -1,4 +1,4 @@
-,turtle.id,field,mean.duration,field.type,log.dur
+,turtle.id,field,mean.duration,field.type,log.dur (log transformed)
 1,L185,Florida,16.97,control,2.831447079
 2,L185,Maine,23.864,conditioned,3.172371047
 3,L185,FLint/Minc,53.2815,mismatch,3.975589179
